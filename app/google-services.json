@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885663678825",
+    "project_id": "fbloginpractice-e3d29",
+    "storage_bucket": "fbloginpractice-e3d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885663678825:android:e5277141cd96670b9abdf8",
+        "android_client_info": {
+          "package_name": "com.trainee.appinventiv.fbloginpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885663678825-mdbca36c8s1fukk3buhlthoamspekdk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIgZbf2Cn2IQkQQF-u5ICoNlpjjicFQo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885663678825-mdbca36c8s1fukk3buhlthoamspekdk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
